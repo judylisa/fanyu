@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("­S¦Ðµ®\n");
+    printf("范羽筑\n");
 }
